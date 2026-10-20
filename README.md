@@ -1,0 +1,2 @@
+# AbstractClass
+Abstract class namen
